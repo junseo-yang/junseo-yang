@@ -13,7 +13,7 @@
 [//]: <> "[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lcalmsky)](https://github.com/lcalmsky)"
 
 ### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=lcalmsky)](https://github.com/lcalmsky)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YouCanCallMeJ)](https://github.com/YouCanCallMeJ)
 
 
 [//]: <> "![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)"
@@ -43,7 +43,15 @@
 <img alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img alt="Linux" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
+<img alt="Linux" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">  
+<img alt="WebStorm" src="https://img.shields.io/badge/webstorm-#000000?style=for-the-badge&logo=webstorm&logoColor=white">  
+<img alt="Apache Cordova" src="https://img.shields.io/badge/apachecordova-#E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=white">
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-#E8E8E8?style=for-the-badge&logo=typescript&logoColor=white">
+<img alt="Angular" src="https://img.shields.io/badge/angular-#DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img alt="AngularJS" src="https://img.shields.io/badge/angularjs-#E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+<img alt="Android" src="https://img.shields.io/badge/android-#3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img alt="Android Studio" src="https://img.shields.io/badge/androidstudio-#3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+<img alt="Power Apps" src="https://img.shields.io/badge/powerapps-#742774?style=for-the-badge&logo=powerapps&logoColor=white">
 </p>
 
 ### LeetCode
