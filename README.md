@@ -1,5 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYouCanCallMeJ%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/YouCanCallMeJ)
 
+<!--
 ### Hi there 👋
 - :smiley: I'm a developer who enjoys sharing and communicating what I've learned.
 - 🔭 I’m currently working on ![](https://raw.githubusercontent.com/lcalmsky/lcalmsky/main/resources/logo/11st-logo.png) in charge of ![SK pay](https://raw.githubusercontent.com/lcalmsky/lcalmsky/main/resources/logo/skpay-logo.png) `FDS`, `AML` and `MyData` as a Java back-end developer.
@@ -20,7 +21,7 @@
 [//]: <> "![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)"
 [//]: <> "![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)"
 [//]: <> "![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)"
-[//]: <> "![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)"
+[//]: <> "![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)" -->
 
 ### Tech Stack
 <p align="center">
@@ -54,6 +55,7 @@
 <img alt="Power Apps" src="https://img.shields.io/badge/powerapps-#742774?style=for-the-badge&logo=powerapps&logoColor=white">
 </p>
 
+<!--
 ### LeetCode
 
 [![lcalmsky's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lcalmsky&theme=dark)](https://github.com/lcalmsky/leetcode-stats)
@@ -65,3 +67,4 @@
 ### Links
 * [resume](https://lcalmsky.github.io/resume/)
 * [blog](https://jaime-note.tistory.com/)
+-->
