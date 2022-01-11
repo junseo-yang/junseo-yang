@@ -47,7 +47,7 @@
 <img alt="Linux" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">  
 <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">  
 <img alt="Apache Cordova" src="https://img.shields.io/badge/apachecordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=white">
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-E8E8E8?style=for-the-badge&logo=typescript&logoColor=white">
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img alt="Angular" src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img alt="AngularJS" src="https://img.shields.io/badge/angularjs-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
 <img alt="Android" src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
